@@ -36,6 +36,8 @@ const MetaConfig: React.FC<MetaConfigProps> = (props) => {
           <meta property="article:author" content={CONFIG.profile.name} />
         </>
       )}
+      {/* google */}
+      <meta name="google-site-verification" content="FFtMn_uTenM8wVeo2oqN3YK_1WlMgTUJj8N7io1PVNU" />
     </Head>
   )
 }

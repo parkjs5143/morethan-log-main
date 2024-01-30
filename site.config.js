@@ -7,18 +7,18 @@ const CONFIG = {
     bio: "soonipy",
     email: "parkjs5143@gmail.com",
     linkedin: "soonipy",
-    github: "soonipy",
+    github: "parkjs5143",
     instagram: "soonipy",
   },
   projects: [
     {
       name: `soonipy-log`,
-      href: "https://github.com/parkjs5143/morethan-log",
+      href: "https://github.com/parkjs5143/morethan-log-main",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "soonipy-log",
+    title: "🐣 soonipy-log",
     description: "welcome to soonipy-log!",
   },
 
